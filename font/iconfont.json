@@ -1,0 +1,79 @@
+{
+  "id": "1981129",
+  "name": "zhi",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4983335",
+      "name": "top",
+      "font_class": "top",
+      "unicode": "e6f9",
+      "unicode_decimal": 59129
+    },
+    {
+      "icon_id": "410508",
+      "name": "手机",
+      "font_class": "shouji-copy-copy",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "4406289",
+      "name": "位置",
+      "font_class": "weizhi",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "9257034",
+      "name": "邮件",
+      "font_class": "youjian",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "11967056",
+      "name": "github",
+      "font_class": "github",
+      "unicode": "e672",
+      "unicode_decimal": 58994
+    },
+    {
+      "icon_id": "9277879",
+      "name": "we-chat",
+      "font_class": "we-chat",
+      "unicode": "e70e",
+      "unicode_decimal": 59150
+    },
+    {
+      "icon_id": "9454999",
+      "name": "qq",
+      "font_class": "qq",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "11067704",
+      "name": "twiter",
+      "font_class": "twiter",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "13180394",
+      "name": "微博",
+      "font_class": "weibo",
+      "unicode": "e9ca",
+      "unicode_decimal": 59850
+    },
+    {
+      "icon_id": "16201467",
+      "name": "哔哩哔哩",
+      "font_class": "bilibili",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    }
+  ]
+}
